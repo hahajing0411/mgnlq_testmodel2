@@ -22,3 +22,12 @@ testmodel2/*.gv
 testmodel2/*.bak
 
 # we check in gen for coveralls source references
+sap-ui-cachebuster-info.json
+extended_runnable_file.html
+.*/extended_runnable_file.html
+visual_ext_index.html
+/webapp/visual_ext_index.html
+fioriHtmlRunner.html
+.*/fioriHtmlRunner.html
+mock_preview_sapui5.html
+.*/mock_preview_sapui5.html
